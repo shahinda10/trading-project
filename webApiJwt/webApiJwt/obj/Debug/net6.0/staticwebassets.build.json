@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tCY0VDjFSMpF2jLMKt53o4YQ6MBHoyWsYvPXGRltROg=",
+  "Source": "webApiJwt",
+  "BasePath": "_content/webApiJwt",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
